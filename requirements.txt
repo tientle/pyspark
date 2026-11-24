@@ -1,0 +1,5 @@
+pyspark==3.5.5
+pandas
+matplotlib
+jupyter
+ipykernel
